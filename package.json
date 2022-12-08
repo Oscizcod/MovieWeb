@@ -1,0 +1,25 @@
+{
+  "name": "movieweb",
+  "version": "1.0.0",
+  "description": "JS freeCodeCamp tutorial to build front end movie app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oscizcod/MovieWeb.git"
+  },
+  "author": "Pravin Muruhaya",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
+  },
+  "bugs": {
+    "url": "https://github.com/Oscizcod/MovieWeb/issues"
+  },
+  "homepage": "https://github.com/Oscizcod/MovieWeb#readme"
+}
