@@ -16,3 +16,36 @@ h3 {
     background-color: #131720;
     padding: 10px;
 }
+
+.topnav a {
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 1.2rem;
+    padding: 14px 16 px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.topnav .search-container {
+    float: right;
+}
+
+form {
+    height: 43px;
+    width: 300px;
+    background-color: #151f30;
+    border-radius: 11px;
+    display: flex;
+    align-items: center;
+}
+
+input {
+    all: unset;
+    height: 100%;
+    width: 100%;
+    color: #fff;
+    font: 15px system-ui;
+    padding: 6px 9px;
+}
